@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FormValidation</string>
+    <string name="invalid_name">Please enter valid name</string>
+    <string name="invalid_mobile">Please enter a valid number</string>
+    <string name="invalid_email">"Enter valid email "</string>
+    <string name="invalid_website">Please enter valid website</string>
+    <string name="invalid_password">Enter six digit password</string>
+    <string name="invalid_confirm_password">Password does not match</string>
+</resources>
